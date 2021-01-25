@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
+  // EJERCICIO DE ELECTROCABLES 
   char nombre[40];
   int puntos,equipos,red ;
   float totald=0,ntotalc=0,nprecio=0,mprecios=0,imprevisto,costocable,preciototalc=0,preciomateriales,ganancia,totalpagar;
